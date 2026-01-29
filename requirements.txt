@@ -1,1 +1,2 @@
-
+# This project uses Python standard library modules.
+# The project also uses libraries such as pandas, matplotlib
