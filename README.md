@@ -97,3 +97,9 @@ Category-wise expense summary
 Monthly expense report
 CSV data persistence
 Input validation and error handling
+
+
+👩‍💻 Author
+
+Ayisha Mariyam
+Aspiring Data Scientist
