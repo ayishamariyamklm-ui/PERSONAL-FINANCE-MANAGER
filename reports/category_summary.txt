@@ -1,0 +1,6 @@
+--- CATEGORY-WISE SUMMARY ---
+Entertainment: ₹1406.00
+Food: ₹3400.00
+Transport: ₹1020.00
+Shopping: ₹4450.00
+Other: ₹450.00
